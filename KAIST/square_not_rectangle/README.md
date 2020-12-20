@@ -9,3 +9,8 @@ python run.py
 ```
 
 <img src="docs/img1.png" widht=400px>
+
+
+# 접근법
+
+# 어려운 점
