@@ -24,5 +24,5 @@
 
 |Index|Name|Challange|Category|
 |---|---|---|---|
-|1|[Square, Not Rectangle]()|KAIST|Sequence|
+|1|[Square, Not Rectangle](https://github.com/fxnnxc/coding/tree/main/KAIST/square_not_rectangle)|KAIST|Sequence|
 |2|||
