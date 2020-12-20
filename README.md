@@ -1,9 +1,14 @@
 # Coding 😎
 
-<p align=left>
-  <img src=https://img.shields.io/static/v1?label=Members&message=4&color=orange&style=flat height=28px>
-</p>
-
+<p>
+<img src=https://img.shields.io/static/v1?label=Members&message=4&color=orange&style=flat height=28px>
+ </p>
+ <p>
+<img src=https://img.shields.io/static/v1?label=&message=Bumjin&color=blue&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=Minjoon&color=blue&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=JungIn&color=blue&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=HelloWorld&color=blue&style=flat height=28px>
+ </p>
 코딩 스터디 일정 및 계획
 
 # Schedule
