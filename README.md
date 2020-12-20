@@ -20,9 +20,9 @@
 |8|[서울대](https://www.acmicpc.net/category/354)|🟨🟧
 |9|[ICPC world final](https://www.acmicpc.net/category/4)|🟨🟧🟥
 
-# Solved
+# Tried
 
 |Index|Name|Challange|Category|
 |---|---|---|---|
 |1|[Square, Not Rectangle](https://github.com/fxnnxc/coding/tree/main/KAIST/square_not_rectangle)|KAIST|Sequence|
-|2|||
+|2|[뒤집기](https://www.acmicpc.net/problem/15999)|카카오 코드 페스티벌|recursive|
