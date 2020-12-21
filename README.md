@@ -27,20 +27,11 @@
 
 ## Week 1
 한국정보올림피아드 2018
-|Name|category|Assign|
-|:-:|:-:|:--|
-|[화살표 그리기]()||[![hello](https://img.shields.io/static/v1?label=&message=Yujin&color=blue&style=flat)](#a)||
-|[XCorr]()||[![hello](https://img.shields.io/static/v1?label=&message=Jungin&color=blue&style=flat)](#a)||
-|[두 로봇]()||[![hello](https://img.shields.io/static/v1?label=&message=Minjoon&color=blue&style=flat)](#a)||
-|[조화로운 행렬]()||[![hello](https://img.shields.io/static/v1?label=&message=Bumjin&color=blue&style=flat)](#a)||
-
-
-
-# Tried
-
-|Index|Name|Challange|Category|Solved ✅| Assign|
-|:-:|---|---|---|:-:|:-:|
-|1|[Square, Not Rectangle](https://github.com/fxnnxc/coding/tree/main/KAIST/square_not_rectangle)|KAIST|Sequence|⛔| [![hello](https://img.shields.io/static/v1?label=&message=Bumjin&color=blue&style=flat)](#a)
-|2|[뒤집기](https://github.com/fxnnxc/coding/tree/main/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EC%BD%94%EB%93%9C%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C/%EB%92%A4%EC%A7%91%EA%B8%B0)|카카오 코드 페스티벌|recursive|⛔| [![hello](https://img.shields.io/static/v1?label=&message=Bumjin&color=blue&style=flat)](#a)
+|Name|category|Assign|Clear|
+|:-:|:-:|:--|:-:|
+|[화살표 그리기]()|-|[![hello](https://img.shields.io/static/v1?label=&message=Yujin&color=blue&style=flat)](#a)|-|
+|[XCorr]()|-|[![hello](https://img.shields.io/static/v1?label=&message=Jungin&color=blue&style=flat)](#a)|-|
+|[두 로봇]()|-|[![hello](https://img.shields.io/static/v1?label=&message=Minjoon&color=blue&style=flat)](#a)|-|
+|[조화로운 행렬]()|-|[![hello](https://img.shields.io/static/v1?label=&message=Bumjin&color=blue&style=flat)](#a)|-|
 
 
