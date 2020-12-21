@@ -42,4 +42,12 @@
 
 ## 수도 코드
 
-아직
+    A = [초기상태]
+    COUNT = [1]
+    For 
+         B = A의 가능한 몯느 이전 상태를 담고 있는 리스트
+         Append(Count , length(B))
+         A = B 
+    until 이전 상태가 더 이상 없으면 종료
+
+    RETURN Product(COUNT)
