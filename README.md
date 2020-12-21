@@ -10,7 +10,9 @@
 <img src=https://img.shields.io/static/v1?label=&message=Yujin&color=blue&style=flat height=28px>
  </p>
 
-코딩 스터디 일정 및 계획
+<img src="docs/img1.png" width=500px>
+
+# 코딩 스터디 계획
 * 매주 수요일 7시
 
 # Schedule
