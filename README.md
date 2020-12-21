@@ -28,6 +28,6 @@
 # Tried
 
 |Index|Name|Challange|Category|Solved ✅|
-|---|---|---|---|:-:|
+|:-:|---|---|---|:-:|
 |1|[Square, Not Rectangle](https://github.com/fxnnxc/coding/tree/main/KAIST/square_not_rectangle)|KAIST|Sequence|⛔|
 |2|[뒤집기](https://github.com/fxnnxc/coding/tree/main/%EC%B9%B4%EC%B9%B4%EC%98%A4_%EC%BD%94%EB%93%9C%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C/%EB%92%A4%EC%A7%91%EA%B8%B0)|카카오 코드 페스티벌|recursive|⛔|
