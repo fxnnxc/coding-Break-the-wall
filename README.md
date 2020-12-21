@@ -28,11 +28,13 @@
 ## Week 1
 한국정보올림피아드 2018
 |Name|category|Assign|
-|:-:|:-:|:-:|
+|:-:|:-:|:--|
 |[화살표 그리기]()||[![hello](https://img.shields.io/static/v1?label=&message=Yujin&color=blue&style=flat)](#a)||
 |[XCorr]()||[![hello](https://img.shields.io/static/v1?label=&message=Jungin&color=blue&style=flat)](#a)||
 |[두 로봇]()||[![hello](https://img.shields.io/static/v1?label=&message=Minjoon&color=blue&style=flat)](#a)||
 |[조화로운 행렬]()||[![hello](https://img.shields.io/static/v1?label=&message=Bumjin&color=blue&style=flat)](#a)||
+
+
 
 # Tried
 
