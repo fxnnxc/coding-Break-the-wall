@@ -1,4 +1,4 @@
-# 문제이름
+# 조화로운_행렬
 
 [문제 링크](https://www.acmicpc.net/problem/15977)
 
