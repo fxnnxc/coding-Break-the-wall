@@ -1,7 +1,7 @@
 # Coding 😎
 
 <p>
-<img src=https://img.shields.io/static/v1?label=Members&message=4&color=orange&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=Members&message=4&color=yellow&style=flat height=28px>
  </p>
  <p>
 <img src=https://img.shields.io/static/v1?label=&message=Bumjin&color=blue&style=flat height=28px>
