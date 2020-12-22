@@ -50,24 +50,46 @@
 
 ## 풀이 전략
 
+* DP인듯?
+* n개의 열을 가진 행렬에 한 개를 더 더했을 때, 그게 조화행렬인가? Yes No?
+* 
 
-...
 
 
 ## 고민
 
-...
+
 
 ### 고민 해결
 
-...
+없음.
 
 ## Sudo Code
 
-...
+      SET MAT = R x C matrix
+      SET count = 0
+      FOR r(행) = 1,2,...R
+          r = (index, 원소)의 리스트로 변환
+          r' = 원소에 대해서 Descending 정렬
+          for i=1,1, ..., C
+              MAT[r][r'의 i번째 원소의 인덱스] = i 
+      END FOR
+
+      FOR c(열)=1,2,..C 
+          MAT의 LSC를 찾는다. 
+      END FOR
+
+      RETURN count
+
+
 
 # 선택 사항
 
 * 구현
 * 관련 알고리즘
 * 관련 문제
+
+
+```
+cat examples/ex1 | py run.py
+```
