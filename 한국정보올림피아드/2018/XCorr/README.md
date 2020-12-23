@@ -6,10 +6,10 @@
 ## 문제 이해   
 길이가 동일한 수열 X, Y가 있다. 이 두 수열의 각 원소는 음이 아닌 정수이다. 
 임의의 정수 t가 주어졌을 때 XCorr(t)는 다음과 같이 정의된다.
-<img src="docs/1.jpg" width=300px>
+<img src="1.JPG" width=300px>
 
 임의의 t값의 범위 (a<=t<=b)에 대해 XCorr(t)를 모두 구해서 더한 값 S(a,b)는 다음과 같이 정의된다.
-<img src="docs/2.jpg" width=300px>
+<img src="2.JPG" width=300px>
 
 수열 X,Y와 t의 범위 a,b가 주어졌을 때 S(a,b)를 구하는 프로그램을 작성하시오.
 
