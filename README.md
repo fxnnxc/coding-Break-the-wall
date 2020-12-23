@@ -29,6 +29,8 @@
 |8|[서울대](https://www.acmicpc.net/category/354)|🟨🟧
 |9|[ICPC world final](https://www.acmicpc.net/category/4)|🟨🟧🟥
 
+---
+
 ## Week 1
 한국정보올림피아드 2018
 |Name|category|Assign|Clear|
@@ -39,5 +41,10 @@
 |[조화로운 행렬](https://github.com/fxnnxc/coding/tree/main/%ED%95%9C%EA%B5%AD%EC%A0%95%EB%B3%B4%EC%98%AC%EB%A6%BC%ED%94%BC%EC%95%84%EB%93%9C/2018/%EC%A1%B0%ED%99%94%EB%A1%9C%EC%9A%B4_%ED%96%89%EB%A0%AC)|Greedy|[![hello](https://img.shields.io/static/v1?label=&message=Bumjin&color=blue&style=flat)](#a)|-|
 
 
+---
 
+## Week 2
 
+Dynamic Programming
+|Name|Info|
+|:-:|:-:|
