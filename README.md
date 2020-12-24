@@ -17,8 +17,8 @@
 
 ##  New
 
-* Week 1 : [한국정보올림피아드]()
-* Week 2 : [Dynamic Programming](dynaimc_programming.md)
+* Week 1 : [한국정보올림피아드](competition/한국정보올림피아드/README.md)
+* Week 2 : [Dynamic Programming](dynamic_programming/README.md)
 
 ---
 
