@@ -18,13 +18,13 @@
 ##  New
 
 * Week 1 : [한국정보올림피아드](competition/한국정보올림피아드/README.md)
-* Week 2 : [Dynamic Programming](dynamic_programming/README.md)
+* Week 2 : [Dynamic Programming](study/dynamic_programming/README.md)
 
 ---
 
 ## Study Materials
 
-* Dynamic Programming
+* [Dynamic Programming](study/dynamic_programming/README.md)
 * Graph 
 * DFS
 * BFS
