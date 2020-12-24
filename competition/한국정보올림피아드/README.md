@@ -1,26 +1,32 @@
 
-# 한국정보올림피아드 2018
+# 한국정보올림피아드 
 
-## 화살표 그리기
+
+
+
+---
+##  2018 Problems
+
+### 화살표 그리기
 
 * Assignee : Jungin
 * 종류 : Sort
 * [README](2018/화살표그리기)
 
-## XCorr
+### XCorr
 
 * Assignee : Yujin
 * Dynamic Programming
 * [README](2018/XCorr)
 
 
-## 두 로봇
+### 두 로봇
 
 * Assignee : Minjoon
 * 종류 : DFS,Dynamic Programming
 * [README](2018/두_로봇)
 
-## 조화로운 행렬
+### 조화로운 행렬
 
 * Assignee : Bumjin
 * 종류 : Greedy 
