@@ -36,7 +36,7 @@ A * B는 이미 최소가 되는 연산으로 선택되었다. 그러나 B * C�
 |[solution1.py](solution1.py)|33M|140|Baseline|
 |[solution2.py](solution2.py)|33M|128|using sys.stdin.readline|
 |[solution3.py](solution3.py)|33M|128|remove assiging and reduce lines|
-|[solution4.py](solution4.py)|29M|64|add by plus first|
+|[solution4.py](solution4.py)|29M|**64**|**add by plus first**</br> -10-(30+40+60)-(50+30+40)|
 |[solution5.py](solution5.py)|29M|64|Do not use list(map(int, ...)) |
 
 
