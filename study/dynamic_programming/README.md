@@ -28,7 +28,7 @@
 
 * 종류:
 * Assignee : Minjoon 
-* [README](problems/가장 긴 바이토닉 부분 )
+* [README]()
 
 ### 잃어버린 괄호
 
