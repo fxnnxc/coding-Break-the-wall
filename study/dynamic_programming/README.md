@@ -36,4 +36,4 @@
 
 |name|solution|key words|
 |:-:|:-:|:-:|
-|||
+|다리놓기|[Solved](problems/다리놓기)|경우의 수 조합, 쉬움|
