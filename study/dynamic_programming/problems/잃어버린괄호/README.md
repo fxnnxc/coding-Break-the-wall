@@ -9,6 +9,10 @@
 ```
 입력   55-50+40
 출력   -35
+
+
+cat ex3 | python solution5.py
+
 ```
 
 ## 예시
