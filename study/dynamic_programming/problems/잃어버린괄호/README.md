@@ -12,7 +12,6 @@
 
 
 cat ex3 | python solution5.py
-
 ```
 
 ## 예시
