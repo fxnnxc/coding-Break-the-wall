@@ -17,30 +17,23 @@
 
 # 🍔
 
+
 ---
-## Problems
+# Problems
 
-### 듣보잡
+## Assigned 📌
 
-* 종류 : 
-* Assignee : Jungin
-* [README]()
+|name|solution|key words|
+|:-:|:-:|:-:|
+|듣보잡|[UnSolved](problems/듣보잡)|
+|그대로 출력하기2|[UnSolved](problems/그대로출력하기2)|
+|가장 긴 바이토닉 부분 수열|[UnSolved](problems/가장긴바이토닉수열)|
+|잃어버린 괄호|[Solved](problems/잃어버린괄호) |괄호, 아이디어, 괄호순서 정하기, 아이디어로 쉽게 해결
 
-### 그대로 출력하기2
+## Free 🤗
 
-* 종류
-* Assignee : Yujin
-* [README]()
+자유롭게 풀고 풀이를 올린 문제
 
-
-### 가장 긴 바이토닉 부분 수열
-
-* 종류:
-* Assignee : Minjoon 
-* [README](problems/가장긴바이토닉수열)
-
-### 잃어버린 괄호
-
-* 종류 : 
-* Assignee : Bumjin
-* [README](problems/잃어버린괄호)
+|name|solution|key words|
+|:-:|:-:|:-:|
+|||
