@@ -4,7 +4,7 @@
 
 # Dynamic Programming
 
-## What is Dynamic Programming
+## What is Dynamic Programming?
 
 * 주어진 문제를 풀기 위해서, 문제를 여러 개의 하위 문제(subproblem)로 나누어 푼 다음, 그것을 결합하여 최종적인 목적에 도달하는 방법
 
