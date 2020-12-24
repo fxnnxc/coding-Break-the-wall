@@ -1,14 +1,27 @@
 
 # 한국정보올림피아드 2018
 
+## [화살표 그리기](2018/화살표그리기 )
+
+* Assignee : Jungin
+* 문제 : 
+* 종류 : Sort
 
 
-|Name|category|Assign|
-|:-:|:-:|:--|
-|[화살표 그리기]()|Sort|[![hello](https://img.shields.io/static/v1?label=&message=Jungin&color=blue&style=flat)](#a)|
-|[XCorr]()|Dynamic Programming|[![hello](https://img.shields.io/static/v1?label=&message=Yujin&color=blue&style=flat)](#a)|
-|[두 로봇]())|DFS,Dynamic Programming|[![hello](https://img.shields.io/static/v1?label=&message=Minjoon&color=blue&style=flat)](#a)|
-|[조화로운 행렬]())|Greedy|[![hello](https://img.shields.io/static/v1?label=&message=Bumjin&color=blue&style=flat)](#a)|
+## [XCorr]()
 
+* Assignee : Yujin
+* Dynamic Programming
+
+## [두 로봇]()
+
+* Assignee : Minjoon
+* 종류 : DFS,Dynamic Programming
+
+## [조화로운 행렬]()
+
+* Assignee : Bumjin
+* 종류 : Greedy 
+* 열을 선택하는 문제, 선택할 때마다 다른 열의 값이 바뀌게 된다. 
 
 ---
