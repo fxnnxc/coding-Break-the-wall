@@ -10,7 +10,7 @@
 <img src=https://img.shields.io/static/v1?label=&message=Yujin&color=blue&style=flat height=28px>
  </p>
 
-<img src="docs/img1.png" width=300px>
+<img src="docs/img1.png" width=280px>
 
 
 ---
