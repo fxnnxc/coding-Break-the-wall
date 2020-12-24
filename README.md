@@ -18,7 +18,7 @@
 ##  New
 
 * Week 1 : [한국정보올림피아드]()
-* Week 2 : [Dynamic Programming]()
+* Week 2 : [Dynamic Programming]("dynaimc_programming")
 
 ---
 
