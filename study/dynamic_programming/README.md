@@ -48,11 +48,11 @@ fibonacci(n)
 필요한 때마다 함수를 다시 호출하지 않고 값을 빠르게 가져올 수 있음
 
 ## DP의 적용 요건 및 방법
-# Optimal substructure
+### Optimal substructure
 큰 문제의 최적 솔루션에 작은 문제의 최적 솔루션이 포함됨
-# Overlapping recursive calls
+### Overlapping recursive calls
 재귀적 해법으로 풀면 같은 문제에 대한 재귀 호출이 심하게 중복됨
-# 작은 크기 입력에 대한 최적 Solution -> 큰 입력에 대한 최적 Solution
+### 작은 크기 입력에 대한 최적 Solution -> 큰 입력에 대한 최적 Solution
 
 
 ---
