@@ -9,13 +9,50 @@
 * 주어진 문제를 풀기 위해서, 문제를 여러 개의 하위 문제(subproblem)로 나누어 푼 다음, 그것을 결합하여 최종적인 목적에 도달하는 방법
 
 
-#### 🍔 햄버거 먹은 값을 해야지 정인아
+#### 특징
+## 재귀적 해법의 장단점
+예: Fibonacci 수 구하기
+𝑓_𝑛=𝑓_(𝑛−1)+𝑓_(𝑛−2)
+아주 간단한 문제지만 Dynamic programming의 동기와 구현이 다 포함되어 있다
 
-### 🍔
+## Recursive Algorithm
+<pre>
+<code>
+fib(n) 
+{ 
+        if (n == 1 or n == 2) then
+            return 1; 
+        else
+            return (fib(n-1) +fib(n-2)); 
+} 
+</code>
+</pre>
+-> 엄청난 중복 호출이 존재한다
 
-## 🍔
+## 🍔 피보나치수를 구하는 DP Algorithm
+<pre>
+<code>
+fibonacci(n) 
+{ 
+        f[1] ← f[2] ← 1; 
+        for i ← 3 to n 
+                f[i] ← f[i-1] +f[i-2]; 
+        return f[n]; 
+} 
+</code>
+</pre>
+-> O(n)
 
-# 🍔
+동적계획법에서 아주 중요한 개념
+함수의 값을 계산한 뒤 계산된 값을 배열에 저장하는 방식
+필요한 때마다 함수를 다시 호출하지 않고 값을 빠르게 가져올 수 있음
+
+## DP의 적용 요건 및 방법
+# Optimal substructure
+큰 문제의 최적 솔루션에 작은 문제의 최적 솔루션이 포함됨
+# Overlapping recursive calls
+재귀적 해법으로 풀면 같은 문제에 대한 재귀 호출이 심하게 중복됨
+# 작은 크기 입력에 대한 최적 Solution -> 큰 입력에 대한 최적 Solution
 
 
 ---
