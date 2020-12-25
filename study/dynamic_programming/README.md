@@ -9,14 +9,13 @@
 * 주어진 문제를 풀기 위해서, 문제를 여러 개의 하위 문제(subproblem)로 나누어 푼 다음, 그것을 결합하여 최종적인 목적에 도달하는 방법
 
 
-#### 특징
-## 재귀적 해법의 장단점
+### 재귀적 해법의 장단점
 * 예: Fibonacci 수 구하기
 𝑓_𝑛=𝑓_(𝑛−1)+𝑓_(𝑛−2)
 
 아주 간단한 문제지만 Dynamic programming의 동기와 구현이 다 포함되어 있다
 
-## Recursive Algorithm
+### Recursive Algorithm
 <pre>
 <code>
 fib(n) 
@@ -30,7 +29,7 @@ fib(n)
 </pre>
 -> 엄청난 중복 호출이 존재한다
 
-## 🍔 피보나치수를 구하는 DP Algorithm
+### 🍔 피보나치수를 구하는 DP Algorithm
 <pre>
 <code>
 fibonacci(n) 
@@ -45,7 +44,7 @@ fibonacci(n)
 -> O(n)
 
 
-## DP의 적용 요건 및 방법
+### DP의 적용 요건 및 방법
 * Optimal substructure
 큰 문제의 최적 솔루션에 작은 문제의 최적 솔루션이 포함됨
 * Overlapping recursive calls
