@@ -11,8 +11,9 @@
 
 #### 특징
 ## 재귀적 해법의 장단점
-예: Fibonacci 수 구하기
+* 예: Fibonacci 수 구하기
 𝑓_𝑛=𝑓_(𝑛−1)+𝑓_(𝑛−2)
+
 아주 간단한 문제지만 Dynamic programming의 동기와 구현이 다 포함되어 있다
 
 ## Recursive Algorithm
@@ -43,16 +44,13 @@ fibonacci(n)
 </pre>
 -> O(n)
 
-동적계획법에서 아주 중요한 개념
-함수의 값을 계산한 뒤 계산된 값을 배열에 저장하는 방식
-필요한 때마다 함수를 다시 호출하지 않고 값을 빠르게 가져올 수 있음
 
 ## DP의 적용 요건 및 방법
-### Optimal substructure
+* Optimal substructure
 큰 문제의 최적 솔루션에 작은 문제의 최적 솔루션이 포함됨
-### Overlapping recursive calls
+* Overlapping recursive calls
 재귀적 해법으로 풀면 같은 문제에 대한 재귀 호출이 심하게 중복됨
-### 작은 크기 입력에 대한 최적 Solution -> 큰 입력에 대한 최적 Solution
+* 작은 크기 입력에 대한 최적 Solution -> 큰 입력에 대한 최적 Solution
 
 
 ---
