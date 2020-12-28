@@ -43,4 +43,18 @@ A * B는 이미 최소가 되는 연산으로 선택되었다. 그러나 B * C�
 |[solution5.py](solution5.py)|29M|64|Do not use list(map(int, ...)) |
 
 
+## Best solution
 
+```python
+import sys 
+
+equation = sys.stdin.readline().strip()
+values = equation.split("-")
+values = [list(map(int, inner_values.split("+"))) for inner_values in values]
+
+total = sum(values[0])
+for i in range(1, len(values)):
+    total -= sum(values[i])
+
+print(total)
+```
