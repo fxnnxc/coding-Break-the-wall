@@ -19,3 +19,10 @@ mid = 6
 1 5 2 1 4 3 4 5 2 1
 
 1 2 3 4 5 2 1 
+
+## Results
+
+|Code|memory|time|
+|:-:|:-:|:-:|
+|[solution1.py](solution1.py)|29M|180ms|increasing and decreasing|
+|[solution2.py](solution2.py)|29M|200ms|do not assign value|
