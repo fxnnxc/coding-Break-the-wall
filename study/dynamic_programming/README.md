@@ -10,8 +10,7 @@
 
 
 ### 재귀적 해법의 장단점
-* 예: Fibonacci 수 구하기
-𝑓_𝑛=𝑓_(𝑛−1)+𝑓_(𝑛−2)
+* 예: Fibonacci 수 구하기 <img src="https://latex.codecogs.com/gif.latex?f_{n}=f_{n-1}+f_{n-2}" width=150px>
 
 아주 간단한 문제지만 Dynamic programming의 동기와 구현이 다 포함되어 있다
 
