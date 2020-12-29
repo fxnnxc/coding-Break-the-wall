@@ -16,16 +16,16 @@
 
 * Week 1 : [한국정보올림피아드](competition/한국정보올림피아드/README.md)
 * Week 2 : [Dynamic Programming](study/dynamic_programming/README.md)
+* Week 3 : [Graph](study/graph/README.md)
 
 ---
 
-## Study Materials
+### [Dynamic Programming](study/dynamic_programming/README.md)
+* dp memory 
 
-* [Dynamic Programming](study/dynamic_programming/README.md)
-* Graph 
-* DFS
+### [Graph](study/graph/README.md)
+* Depth First Search
 * BFS
-
 
 
 
