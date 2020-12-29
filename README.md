@@ -19,7 +19,8 @@
 
 ## Subjects 🗃️
 ### [Dynamic Programming](study/dynamic_programming/README.md)
-* dp memory 
+* DP(동적 프로그래밍)
+* 문제를 Sub Problem으로 나누고 메모리를 사용해서 최단 시간의 방법으로 문제 해결
 
 ### [Graph](study/graph/README.md)
 * Depth First Search
