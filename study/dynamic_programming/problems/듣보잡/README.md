@@ -33,13 +33,8 @@ ohhenrie
 
 ## 문제 풀이 전략
 
+listen_list, see_list 에 input값을 넣고 name = set(listen_list) & set(see_list) 를 사용해서 겹치는 입력값을 구하고 sorted(list(name))를 통해 정렬하여 사전순서로 나오게 한다.
 
-*를 임의의 연산이라고 가정하자. 
-
-[A * B] * C 의 값이 있을 때, 연산 순서를 바꾸는 것과 바꾸지 않는 것의 크기 차이를 비교해서 최소가 되는 것을 선택한다. 
-
-A * B는 이미 최소가 되는 연산으로 선택되었다. 그러나 B * C가 전체 크기를 더 줄일 수도 있다. 
-따라서 두 개의 경우를 비교해서 최소로 하는 것은 전체 값을 최소로 하는 것이다. 
 
 ## Results
 |Version|Memory|Time(ms)|info|
@@ -47,13 +42,23 @@ A * B는 이미 최소가 되는 연산으로 선택되었다. 그러나 B * C�
 |1764.py[1764.py]()|42496KB|3628ms|Baseline|
 
 
-## Best solution
+## Solution
 
 ```python
+import sys
+input = sys.stdin.readline
 
+listen,see = map(int,input().split())
+listen_list = []
+see_list = []
+for i in range(listen):
+    listen_list.append(input().strip())
+for i in range(see):
+    see_list.append(input().strip())
+name = set(listen_list) & set(see_list)
+name = sorted(list(name))
+print(len(name))
+for i in name:
+    print(i)
 ```
 
-## DP strategy
-```python
-
-```
