@@ -10,16 +10,14 @@
 <img src="docs/img1.png" width=280px>
 
 
----
-
-##  New
+##  New 🎅
 
 * Week 1 : [한국정보올림피아드](competition/한국정보올림피아드/README.md)
 * Week 2 : [Dynamic Programming](study/dynamic_programming/README.md)
 * Week 3 : [Graph](study/graph/README.md)
 
----
 
+## Subjects 🗃️
 ### [Dynamic Programming](study/dynamic_programming/README.md)
 * dp memory 
 
@@ -30,7 +28,7 @@
 
 
 
-## Competitions
+## Competitions 🏆
 
 * 한국정보올림피아드
 * 카카오_코드페스티벌
