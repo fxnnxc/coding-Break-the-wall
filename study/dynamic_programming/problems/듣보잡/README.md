@@ -39,10 +39,10 @@ listen_list, see_list 에 input값을 넣고 name = set(listen_list) & set(see_l
 ## Results
 |Version|Memory|Time(ms)|info|
 |:-:|:-:|:-:|:--|
-|1764.py[1764.py]()|42496KB|3628ms|Baseline|
+|1764.py([1764.py])|42496KB|3628ms|Baseline|
 
 
-## Solution
+## Best Solution
 
 ```python
 import sys
@@ -61,4 +61,6 @@ print(len(name))
 for i in name:
     print(i)
 ```
-
+## DP Solution
+```python
+```
