@@ -44,7 +44,7 @@ A * B는 이미 최소가 되는 연산으로 선택되었다. 그러나 B * C�
 ## Results
 |Version|Memory|Time(ms)|info|
 |:-:|:-:|:-:|:--|
-|[solution1.py](solution1.py)|33M|140|Baseline|
+|[solution1.py]()|33M|140|Baseline|
 
 
 ## Best solution
