@@ -72,3 +72,4 @@ fibonacci(n)
 |다리놓기|[Solved](problems/다리놓기)|경우의 수 조합, 쉬움|---|
 |스티커|[Solved](problems/스티커)|DP memory사용|<img src="https://latex.codecogs.com/gif.latex?\underset{2\times&space;N}{Matrix},&space;\underset{2\times&space;2}{dp}" width=100> |
 |파이프옮기기1|[Solved](problems/파이프옮기기1)|DP 메모리 3개를 활용|
+|오르막수|[Solved](problems/오르막수)|한 단계씩 DP 메모리를 이용해서 추가하는 문제 dp[i+1] +=dp[i] |
