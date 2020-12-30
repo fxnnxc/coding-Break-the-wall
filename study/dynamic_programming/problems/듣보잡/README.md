@@ -40,6 +40,7 @@ listen_list, see_list 에 input값을 넣고 name = set(listen_list) & set(see_l
 |Version|Memory|Time(ms)|info|
 |:-:|:-:|:-:|:--|
 |1764.py([1764.py])|42496KB|3628ms|Baseline|
+|1764_v2.py([1764_v2.py])|41624KB|128ms|Baseline|
 
 
 ## Solution 1
