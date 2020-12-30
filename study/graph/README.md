@@ -6,7 +6,11 @@
 
 |name|solution|key words|
 |:-:|:-:|:-:|
-||||
+|[The Great Revegetation (Silver)](https://www.acmicpc.net/problem/17038)|||
+|[Cycle Detection](https://www.acmicpc.net/problem/7097)|||
+|[촌수계산](https://www.acmicpc.net/problem/2644)|||
+|[Count Circle Groups](https://www.acmicpc.net/problem/10216)|||
+|[부등호](https://www.acmicpc.net/problem/2529)|||
 
 ## Free 🤗
 
