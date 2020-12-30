@@ -42,7 +42,7 @@ listen_list, see_list 에 input값을 넣고 name = set(listen_list) & set(see_l
 |1764.py([1764.py])|42496KB|3628ms|Baseline|
 
 
-## Best Solution
+## Solution 1
 
 ```python
 import sys
@@ -53,14 +53,35 @@ listen_list = []
 see_list = []
 for i in range(listen):
     listen_list.append(input().strip())
+    
 for i in range(see):
     see_list.append(input().strip())
+    
 name = set(listen_list) & set(see_list)
 name = sorted(list(name))
+
 print(len(name))
 for i in name:
     print(i)
 ```
-## DP Solution
+## Solution 2
 ```python
+import sys
+input = sys.stdin.readline
+listen, see = map(int, input().split())
+listen_set = set()
+see_set = set()
+
+for i in range(listen):
+    listen_set.add(input().strip())
+
+for i in range(see):
+    see_set.add(input().strip())
+
+name = listen_set & see_set
+
+print(len(name))
+for i in sorted(name):
+    print(i)
+
 ```
