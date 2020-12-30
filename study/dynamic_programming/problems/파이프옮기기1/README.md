@@ -22,15 +22,15 @@ def solution(N, b):
         for j in range(N):
             # The case when end point lies in i,j index
             #Horizontal
-            if 0<=j-2 and b[j-1][i]+b[j][i]+b[j-2][i]==0: 
-                    dpH[j][i] += dpH[j-1][i]
+            if 0<=j-2 and b[j-1][i]+b[j][i]+b[j-2][i]==0:  # ㅁㅁㅁ 
+                    dpH[j][i] += dpH[j-1][i]               #   ㅁㅁ
                     if i-1>=0 and b[j-2][i-1]+b[j-1][i-1]==0:
                         dpH[j][i]+=dpD[j-1][i]
             
-            #Vertical
-            if 0<=i-2 and b[j][i-1]+b[j][i]+b[j][i-2]==0: 
-                    dpV[j][i] += dpV[j][i-1]
-                    if j-1>=0 and b[j-1][i-2]+b[j-1][i-1]==0:
+            #Vertical                                           
+            if 0<=i-2 and b[j][i-1]+b[j][i]+b[j][i-2]==0:        # ㅁㅁ 
+                    dpV[j][i] += dpV[j][i-1]                     # ㅁㅁ
+                    if j-1>=0 and b[j-1][i-2]+b[j-1][i-1]==0:    #   ㅁ
                         dpV[j][i]+=dpD[j][i-1]
             # Diagonal 
             if 0<=j-1 and 0<=i-1 and b[j-1][i-1]+b[j][i-1]+b[j-1][i]+b[j][i]==0:
