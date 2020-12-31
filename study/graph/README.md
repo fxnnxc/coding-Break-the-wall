@@ -24,13 +24,13 @@
 
 |Algorithms|Example [이미지 출저 및 ](https://towardsdatascience.com/10-graph-algorithms-visually-explained-e57faa1336f3)|
 |:-:|:-:|
-|BFS(Breath First Search) |<img src="https://miro.medium.com/max/500/1*fYKrGW0IUeoS_8XtCoNaLw.gif" width=300px>
-|DFS(Depth First Search) |<img src="https://miro.medium.com/max/500/1*Ehes66L2dLrySl9K965Gjw.gif" width=300px>
-|Minimal Spanning Tree|<img src="https://miro.medium.com/max/500/1*pdvKVRayHXNAyb64J2QwhA.gif" width=300px>
-|Shortest Path| <img src="https://miro.medium.com/max/500/1*OUqMXd2jmLprCqWULLll8w.gif" width=300px>
-|**Cycle Detection</br>Floyd cycle detection algorithm**</br> Brent’s algorithm|<img src="https://miro.medium.com/max/500/1*ScXYdVPDFG1jP1GwiEBkWQ.gif" width=300px>
-|Strongly Connected Components|<img src="https://miro.medium.com/max/500/1*mW2CO2dhTkvgsJK7oSrFJg.gif" width=300px>
-|Topological Sorting|<img src="https://miro.medium.com/max/500/1*tdDEOGGAn-L6MpdxDlaJkw.gif" width=300px>|
-|Graph Colouring|<img src="https://miro.medium.com/max/500/1*SSSa5VrhhjNrXDdWTBGXlA.gif" width=300px>|
+|**BFS(Breath First Search)** |<img src="https://miro.medium.com/max/500/1*fYKrGW0IUeoS_8XtCoNaLw.gif" width=300px>
+|**DFS(Depth First Search)**|<img src="https://miro.medium.com/max/500/1*Ehes66L2dLrySl9K965Gjw.gif" width=300px>
+|**Minimal Spanning Tree**|<img src="https://miro.medium.com/max/500/1*pdvKVRayHXNAyb64J2QwhA.gif" width=300px>
+|**Shortest Path**| <img src="https://miro.medium.com/max/500/1*OUqMXd2jmLprCqWULLll8w.gif" width=300px>
+|**Cycle Detection**</br>Floyd cycle detection algorithm</br> Brent’s algorithm|<img src="https://miro.medium.com/max/500/1*ScXYdVPDFG1jP1GwiEBkWQ.gif" width=300px>
+|**Strongly Connected Components**|<img src="https://miro.medium.com/max/500/1*mW2CO2dhTkvgsJK7oSrFJg.gif" width=300px>
+|**Topological Sorting**|<img src="https://miro.medium.com/max/500/1*tdDEOGGAn-L6MpdxDlaJkw.gif" width=300px>|
+|**Graph Colouring**|<img src="https://miro.medium.com/max/500/1*SSSa5VrhhjNrXDdWTBGXlA.gif" width=300px>|
 
 
