@@ -29,8 +29,8 @@
 |**Minimal Spanning Tree** </br>[Prim’s algorithm](algorithms/Prim) </br> [Kruskal’s algorithm](algorithms/Kruskal)|<img src="https://miro.medium.com/max/500/1*pdvKVRayHXNAyb64J2QwhA.gif" width=250px>
 |**Shortest Path** </br>[Dijkstra’s shortest path algorithm](algorithms/DijkstraShortestPath)</br> [Bellman–Ford algorithm](algorithms/Bellman–Ford)| <img src="https://miro.medium.com/max/500/1*OUqMXd2jmLprCqWULLll8w.gif" width=250px>
 |**Cycle Detection**</br>[Floyd cycle detection algorithm](algorithms/Floyd%20cycle%20detection%20algorithm)</br> [Brent’s algorithm](algorithms/Brent’s%20algorithm)|<img src="https://miro.medium.com/max/500/1*ScXYdVPDFG1jP1GwiEBkWQ.gif" width=250px>
-|**Strongly Connected Components**</br>[Kosaraju’s algorithm](algorithms/Kosaraju)</br> [Tarjan’s strongly connected components algorithm](algorithms/Tarjan’s strongly connected components) |<img src="https://miro.medium.com/max/500/1*mW2CO2dhTkvgsJK7oSrFJg.gif" width=250px>
-|**Topological Sorting**</br> Kahn’s algorithm </br> The algorithm based on depth-first search|<img src="https://miro.medium.com/max/500/1*tdDEOGGAn-L6MpdxDlaJkw.gif" width=250px>|
-|**Graph Colouring** </br>Algorithms using BFS or DFS  </br> Greedy colouring|<img src="https://miro.medium.com/max/500/1*SSSa5VrhhjNrXDdWTBGXlA.gif" width=250px>|
+|**Strongly Connected Components**</br>[Kosaraju’s algorithm](algorithms/Kosaraju)</br>[Tarjan’s strongly connected components algorithm](algorithms/Tarjan’s%20strongly%20connected%20components) |<img src="https://miro.medium.com/max/500/1*mW2CO2dhTkvgsJK7oSrFJg.gif" width=250px>
+|**Topological Sorting**</br> [Kahn’s algorithm](algorithms/Kahn) </br> [The algorithm based on depth-first search](algorithms/Topological_dfs)|<img src="https://miro.medium.com/max/500/1*tdDEOGGAn-L6MpdxDlaJkw.gif" width=250px>|
+|**Graph Colouring** </br>[Algorithms using BFS or DFS](algorithms/graph_colouring_bfs_dfs)  </br> [Greedy colouring](algorithms/Greedy colouring)|<img src="https://miro.medium.com/max/500/1*SSSa5VrhhjNrXDdWTBGXlA.gif" width=250px>|
 
 
