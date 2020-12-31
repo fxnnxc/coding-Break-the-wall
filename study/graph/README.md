@@ -36,4 +36,4 @@
 |**Strongly Connected Components**|**Topological Sorting**|**Graph Colouring**
 |:-:|:-:|:-:|
 |<img src="https://miro.medium.com/max/500/1*mW2CO2dhTkvgsJK7oSrFJg.gif" width=250px>|<img src="https://miro.medium.com/max/500/1*tdDEOGGAn-L6MpdxDlaJkw.gif" width=250px>|<img src="https://miro.medium.com/max/500/1*SSSa5VrhhjNrXDdWTBGXlA.gif" width=250px>|
-|[Kosaraju’s algorithm](algorithms/Kosaraju)</br>[Tarjan](algorithms/Tarjan’s%20strongly%20connected%20components)| [Kahn’s algorithm](algorithms/Kahn) </br> [based on depth-first search](algorithms/Topological_dfs)|[Algorithms using BFS or DFS](algorithms/graph_colouring_bfs_dfs) </br> [Greedy colouring](algorithms/Greedy colouring) |
+|[Kosaraju’s algorithm](algorithms/Kosaraju)</br>[Tarjan](algorithms/Tarjan’s%20strongly%20connected%20components)| [Kahn’s algorithm](algorithms/Kahn) </br> [based on depth-first search](algorithms/Topological_dfs)|[Algorithms using BFS or DFS](algorithms/graph_colouring_bfs_dfs) </br> [Greedy colouring](algorithms/Greedycolouring) |
