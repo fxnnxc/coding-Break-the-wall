@@ -9,7 +9,7 @@
 ## Best Solution
 ```python
 import sys 
-sys.setrecursionlimit(3000)
+sys.setrecursionlimit(3000) # Python max recur is 2500 which is not enough
 
 dx = [1,1,1,-1,-1,-1,0,0,0]
 dy = [0,1,-1, 0,1,-1, 0,1,-1]
@@ -42,8 +42,5 @@ while True:
     print(solution(a,b,board))
 
 
-```
-
-## Solutions
-
+```d
 
