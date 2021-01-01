@@ -13,7 +13,7 @@ Graph
 
 |tortoise(남생이)|hare(토끼)|
 |---|---|
-|<img src="https://commons.wikimedia.org/wiki/File:A._gigantea_Aldabra_Giant_Tortoise.jpg">| <img src="https://en.wikipedia.org/wiki/File:Scrub_Hare_(Lepus_saxatilis)_close-up_(30544290256)_(2).jpg">|
+|<img src="docs/tortoise.jpg" width=300px>| <img src="docs/hare.jpg" width=170px>|
 
 ## Source code 
 
