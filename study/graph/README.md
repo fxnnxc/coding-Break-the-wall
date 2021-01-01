@@ -18,7 +18,7 @@
 
 |name|solution|key words|info|
 |:-:|:-:|:-:|:--|
-||||
+|섬의개수|[Solved by Bumjin](problems/섬의개수)|bfs |bfs 기본 문제, max recursion을 setting 해야 풀 수 있음. |
 
 ## Algorithms 
 
