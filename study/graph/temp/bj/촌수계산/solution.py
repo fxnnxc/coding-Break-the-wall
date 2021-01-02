@@ -1,26 +1,26 @@
-
-
-
 def solution(graph, a, b):
-    count = -1
-    
-
-    retrun count
-
-
-
-
+    global N
+    visited=[0 for i in range(N+1)]
+    length = [-1 for i in range(N+1)]
+    queue = [a]
+    length[a]=0
+    while queue:
+        t = queue.pop(0)
+        visited[t] = True
+        for i in graph[t]:
+            if not visited[i]:
+                queue.append(i)
+                length[i]=length[t]+1
+    return length[b]
 
 
 N = int(input())
 a, b = map(int,input().split())
 T = int(input())
-graph ={}
+graph =[[] for i in range(N+1)]
 for i in range(T):
     p, c =map(int, input().split())
-    if p in graph.keys():
-        graph[p].append(c)
-    else:
-        graph[p] = [c]
+    graph[p].append(c)
+    graph[c].append(p)
 
 print(solution(graph,a,b))

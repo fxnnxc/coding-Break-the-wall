@@ -20,6 +20,8 @@ N-1 번째와 N이 그룹을 이루는지 확인한다.
 |solution1|base|
 |solution2|base+sys.stdin|
 |solution3|queue version|
+
+
 ## Solution
 ```python
 
