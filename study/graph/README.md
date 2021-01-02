@@ -13,8 +13,8 @@
 ### [ACMIC homework Link 👨‍💻](https://www.acmicpc.net/group/practice/9719/2)
 |name|solution|key words|
 |:-:|:-:|:-:|
-|[The Great Revegetation (Silver)](https://www.acmicpc.net/problem/17038)|||
-|[Cycle Detection](https://www.acmicpc.net/problem/7097)|||
+|[The Great Revegetation (Silver)](https://www.acmicpc.net/problem/17038)|[Descripted by Bumjin](problems/TheGreatRevegetation)||
+|[Cycle Detection](https://www.acmicpc.net/problem/7097)|[Descripted by Bumjin](problems/CycleDetection)|그래프에 존재하는 모든 사이클을 찾는 문제|
 |[촌수계산](https://www.acmicpc.net/problem/2644)|||
 |[Count Circle Groups](https://www.acmicpc.net/problem/10216)|||
 |[부등호](https://www.acmicpc.net/problem/2529)|||
