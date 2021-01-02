@@ -5,9 +5,9 @@
 
 
 1. [Assigned Problems](#assigned-)
-2. Free problems
-3. Algorithms 
-4. Tree traversal
+2. [Free problems](#assigned-)
+3. [Algorithms](#assigned-) 
+4. [Tree traversal](#assigned-)
 
 
 ## Assigned 📌
