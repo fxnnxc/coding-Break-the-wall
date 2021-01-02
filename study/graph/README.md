@@ -1,9 +1,12 @@
 # Graph
 
-1. [Assigned Problems](#assigned-)
-2. [Free problems](#assigned-)
-3. [Algorithms](#assigned-) 
-4. [Tree traversal](#assigned-)
+- [Graph](#graph)
+  - [1. Assigned 📌](#1-assigned-)
+    - [ACMIC homework Link 👨‍💻](#acmic-homework-link-)
+  - [2. Free 🤗](#2-free-)
+    - [All of Graph Problems 👩‍💻](#all-of-graph-problems-)
+  - [3. Algorithms](#3-algorithms)
+  - [4. Tree 순회](#4-tree-순회)
 
 
 ## 1. Assigned 📌
