@@ -19,7 +19,7 @@
 |name|solution|key words|info|
 |:-:|:-:|:-:|:--|
 |섬의개수|[Solved by Bumjin](problems/섬의개수)|bfs |bfs 기본 문제, max recursion을 setting 해야 풀 수 있음. |
-|이진트리검색|[Solved by Bumjin](problems/이진트리검색)|트리, 순회(전위, 중위 후위)|트리를 만들지 않고도 풀 수 있다. 하지만 나는 트리를 만들어서 풀었다.|
+|이진 검색 트리|[Solved by Bumjin](problems/이진검색트리)|트리, 순회(전위, 중위 후위)|트리를 만들지 않고도 풀 수 있다. 하지만 나는 트리를 만들어서 풀었다.|
 
 ## Algorithms 
 

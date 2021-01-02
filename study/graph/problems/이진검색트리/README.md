@@ -1,4 +1,4 @@
-# 이진트리 탐색
+# 이진 검색 트리
 
 
 ## [문제](https://www.acmicpc.net/problem/5639)
