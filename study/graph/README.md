@@ -1,9 +1,5 @@
 # Graph
 
-### [ACMIC homework Link 👨‍💻](https://www.acmicpc.net/group/practice/9719/2)
-### [All of Graph Problems 👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)
-
-
 1. [Assigned Problems](#assigned-)
 2. [Free problems](#assigned-)
 3. [Algorithms](#assigned-) 
@@ -11,7 +7,7 @@
 
 
 ## Assigned 📌
-
+### [ACMIC homework Link 👨‍💻](https://www.acmicpc.net/group/practice/9719/2)
 |name|solution|key words|
 |:-:|:-:|:-:|
 |[The Great Revegetation (Silver)](https://www.acmicpc.net/problem/17038)|||
@@ -21,6 +17,7 @@
 |[부등호](https://www.acmicpc.net/problem/2529)|||
 
 ## Free 🤗
+### [All of Graph Problems 👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)
 
 자유롭게 풀고 풀이를 올린 문제
 
