@@ -19,6 +19,11 @@ while queue:
         parents[neighbor] = node  # parent노드를 설정
 
 ```
+## Solutions
+|solution|mem|time|
+|---|---|---|
+|[solution1.py](solution1.py)|61M|540ms|
+|[solution2.py](solution2.py)|61M|**528ms**|
 
 
 ## Solution
@@ -42,6 +47,7 @@ while queue: # BFS
         if not visited[nei]:
             queue.append(nei)
             parents[nei] = p
+            graph[nei].remove(p) # speed up. ****
 
 #print(parents)
 for i in parents[2:]: # 첫 번째 제외
