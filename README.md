@@ -15,7 +15,8 @@
 * Week 1 : [한국정보올림피아드](competition/한국정보올림피아드/README.md)
 * Week 2 : [Dynamic Programming](study/dynamic_programming/README.md)
 * Week 3 : [Graph](study/graph/README.md)
-
+* Week 4 : [Stack, Queue](study/stack_queue/README.md)
+* Week 4 : [Shortest Path and Minimal Spanning Tree](study/graph/README.md)
 
 ## Subjects 🗃️
 ### [Dynamic Programming](study/dynamic_programming/README.md)
@@ -25,9 +26,12 @@
 ### [Graph](study/graph/README.md)
 * Depth First Search
 * BFS
+* Shortest Path
+* Minimal Spanning Tree
 
-
-
+### [Stack and Queue](study/stack_queue/README.md)
+* Stack
+* Queue
 
 ## Competitions 🏆
 
