@@ -18,6 +18,7 @@
 |[촌수계산](https://www.acmicpc.net/problem/2644)|||
 |[Count Circle Groups](https://www.acmicpc.net/problem/10216)|||
 |[부등호](https://www.acmicpc.net/problem/2529)|||
+|[트리의 부모찾기](https://www.acmicpc.net/problem/11725)|||
 
 ## 2. Free 🤗
 ### [All of Graph Problems 👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)
