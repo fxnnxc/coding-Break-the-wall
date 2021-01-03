@@ -29,9 +29,18 @@
 * Shortest Path
 * Minimal Spanning Tree
 
+### [Binary Search](study/binary_search/README.md)
+* Binary Search
+
 ### [Stack and Queue](study/stack_queue/README.md)
 * Stack
 * Queue
+
+### [Sorting](study/sorting/README.md)
+* Quick Sort 
+* Insertion Sort
+
+
 
 ## Competitions 🏆
 
