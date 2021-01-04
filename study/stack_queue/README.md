@@ -9,10 +9,8 @@
 |덱|[Solved](problems/덱)|덱 기본 문제|
 
 ## 2. Free 🤗
-### [Stack Problems 👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=71)
-### [Queue Problems👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=72)
-
-### [Deque Problems👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=73)
+[Stack Problems 👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=71)[Queue Problems👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=72)
+[Deque Problems👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=73)
 
 자유롭게 풀고 풀이를 올린 문제
 
