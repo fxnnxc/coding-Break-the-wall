@@ -15,7 +15,7 @@
 |:-:|:-:|:-:|
 |[The Great Revegetation (Silver)](https://www.acmicpc.net/problem/17038)|[Descripted by Bumjin](problems/TheGreatRevegetation)|Strongly Connected Component|
 |[Cycle Detection](https://www.acmicpc.net/problem/7097)|[Descripted by Bumjin](problems/CycleDetection)|그래프에 존재하는 모든 사이클을 찾는 문제, Cycle Detection|
-|[촌수계산](https://www.acmicpc.net/problem/2644)||dfs, bfs|
+|[촌수계산](https://www.acmicpc.net/problem/2644)|[Resolving...](problems/촌수계산)|dfs, bfs|
 |[Count Circle Groups](https://www.acmicpc.net/problem/10216)||Connected Components|
 |[부등호](https://www.acmicpc.net/problem/2529)||permutation|
 |[트리의 부모찾기](https://www.acmicpc.net/problem/11725)|[Solved by Bumjin](problems/트리의부모찾기)|bfs, dfs, graph 순회, 순회하면서 그래프 변경|
