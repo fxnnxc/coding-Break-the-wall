@@ -15,7 +15,7 @@
 * Week 1 : [한국정보올림피아드](competition/한국정보올림피아드)
 * Week 2 : [Dynamic Programming](study/dynamic_programming)
 * Week 3 : [Graph](study/graph)
-* Week 4 : [Stack, Queue](study/stack_queue)
+* Week 4 : [Stack, Queue and Deque](study/stack_queue)
 * Week 5 : [Shortest Path and Minimal Spanning Tree](study/graph)
 
 ## Subjects 🗃️
@@ -32,7 +32,7 @@
 ### [Binary Search](study/binary_search)
 * Binary Search
 
-### [Stack and Queue](study/stack_queue)
+### [Stack, Queue and Deque](study/stack_queue)
 * Stack
 * Queue
 
