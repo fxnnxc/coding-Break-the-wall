@@ -29,6 +29,7 @@
 |:-:|:-:|:-:|:--|
 |섬의개수|[Solved by Bumjin](problems/섬의개수)|bfs |bfs 기본 문제, max recursion을 setting 해야 풀 수 있음. |
 |이진 검색 트리|[Solved by Bumjin](problems/이진검색트리)|트리, 전위, 후위 순회|트리를 만들지 않고도 풀 수 있다. 하지만 나는 트리를 만들어서 풀었다.|
+|바이러스|[Solved by Yujin](problems/바이러스)|bfs|촌수계산 코드를 변형해서 풀었다.|
 
 ## 3. Algorithms 
 
