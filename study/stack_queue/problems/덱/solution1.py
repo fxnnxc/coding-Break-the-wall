@@ -1,20 +1,3 @@
-# 덱
-
-## 문제
-* [link](https://www.acmicpc.net/problem/10866)
-* Deque를 구현하는 문제
-
-### Tip
-
-커맨드로 들어오는 string으로 함수를 바로 호출하는 방법
-```python
-v = getattr(obj:Object, cmd:str)(args) # 파라미터 존재
-v = getattr(obj:Object, cmd:str)()     # 파라미터 없음
-```
-
-
-## Solution
-```python
 # operations 
 """
 [1,2,3]
@@ -76,5 +59,3 @@ for i in range(C):
         v = getattr(deque, cmd[0])(cmd[1])
         if v is not None:
             print(v)
-
-```
