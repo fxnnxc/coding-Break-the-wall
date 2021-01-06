@@ -63,11 +63,12 @@ a, b = map(int, input().split())
 m = int(input())
 arr = list([0]*(n) for i in range(n))
 num = int(0)
-
+result = -1
 def dfs(a, b, num, visit):
     visit.append(a)
     if a == b:
-        print(num)
+        global result
+        result = num
         return
 
     for i in range(n):
@@ -80,6 +81,5 @@ for i in range(m):
     arr[x-1][y-1] = arr[y-1][x-1] = 1
 
 dfs(a-1, b-1, 0, [])
+print(result)
 ```
-dfs의 경우 예제 1을 실행하면 맞게 3이 출력 되지만,
-백준 채점결과 틀렸다고 나옴
