@@ -19,7 +19,7 @@
 * Week 5 : [Shortest Path and Minimal Spanning Tree](study/graph)
 
 ## Subjects 🗃️
-### [study/stack_queue](study/dynamic_programming)
+### [study/queue](study/dynamic_programming)
 * stack/queue
 * stack: first in last out/ queue: first in first out
 
