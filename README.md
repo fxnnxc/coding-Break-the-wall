@@ -19,6 +19,10 @@
 * Week 5 : [Shortest Path and Minimal Spanning Tree](study/graph)
 
 ## Subjects 🗃️
+### [study/stack_queue](study/dynamic_programming)
+* stack/queue
+* stack: first in last out/ queue: first in first out
+
 ### [Dynamic Programming](study/dynamic_programming)
 * DP(동적 프로그래밍)
 * 문제를 Sub Problem으로 나누고 메모리를 사용해서 최단 시간의 방법으로 문제 해결
