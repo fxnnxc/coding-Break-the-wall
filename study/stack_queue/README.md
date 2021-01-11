@@ -14,12 +14,12 @@
 ### [ACMIC homework Link 👨‍💻](https://www.acmicpc.net/group/practice/9719/3)
 |name|solution|key words|
 |:-:|:-:|:-:|
-|최소 회의실 개수|||
-|압축|||
-|프린터 큐|||
-|후위 표기식2|||
-|요세푸스 문제0|||
-|탑|||
+|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|||
+|[압축](https://www.acmicpc.net/problem/1662)|||
+|[프린터 큐](https://www.acmicpc.net/problem/1966)|||
+|[후위 표기식2](https://www.acmicpc.net/problem/1935)|||
+|[요세푸스 문제0](https://www.acmicpc.net/problem/11866)|||
+|[탑](https://www.acmicpc.net/problem/2493)|||
 
 
 ## 3. Free 🤗
