@@ -9,6 +9,7 @@
 
 <img src="docs/img1.png" width=280px>
 
+---
 
 ##  New 🎅
 
@@ -22,35 +23,32 @@
 * week ~ : [Binary Search & Sorting](#)
 * Week ~ : [Shortest Path and Minimal Spanning Tree](study/graph)
 
-## Subjects 🗃️
-### [study/queue](study/dynamic_programming)
+# Subjects 🗃️
+## [Stack and Queue](study/stack_queue) 🐣
 * stack/queue
 * stack: first in last out/ queue: first in first out
 
-### [Dynamic Programming](study/dynamic_programming)
+## [Dynamic Programming](study/dynamic_programming) 🐣
 * DP(동적 프로그래밍)
 * 문제를 Sub Problem으로 나누고 메모리를 사용해서 최단 시간의 방법으로 문제 해결
 
-### [Graph](study/graph)
+## [Graph](study/graph) 🐣
 * Depth First Search
 * BFS
 * Shortest Path
 * Minimal Spanning Tree
 
-### [Binary Search](study/binary_search)
+## [Binary Search](study/binary_search) 🐣
 * Binary Search
 
-### [Stack, Queue and Deque](study/stack_queue)
-* Stack
-* Queue
 
-### [Sorting](study/sorting)
+## [Sorting](study/sorting) 🐣
 * Quick Sort 
 * Insertion Sort
 
 
 
-## Competitions 🏆
+# Competitions 🏆
 
 * 한국정보올림피아드
 * 카카오_코드페스티벌
