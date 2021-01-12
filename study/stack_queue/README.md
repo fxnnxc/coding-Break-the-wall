@@ -15,11 +15,11 @@
 |name|solution|key words|
 |:-:|:-:|:-:|
 |최소 회의실 개수|[Unsolved](problems/최소회의실개수)||
-|압축|[Unsolved](priblems/압축)|
-|프린터 큐|[Unsolved](priblems/프린터큐)|
+|압축|[Unsolved](problems/압축)|
+|프린터 큐|[Unsolved](problems/프린터큐)|
 |[후위 표기식2](https://www.acmicpc.net/problem/1935)|[Solved by Jungin](problems/후위표기식2)||
-|요세푸스 문제 0|[Unsolved](priblems/요세푸스문제0)|
-|탑|[Unsolved](priblems/탑)|
+|요세푸스 문제 0|[Unsolved](problems/요세푸스문제0)|
+|탑|[Unsolved](problems/탑)|
 
 
 ## 3. Free 🤗
