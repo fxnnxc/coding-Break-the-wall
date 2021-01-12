@@ -24,13 +24,13 @@
 * Week ~ : [Shortest Path and Minimal Spanning Tree](#)
 
 # Subjects 🗃️
-## [Greedy and Brute Force](study/Greedy_Brute) 🐣
+## [탐욕과 브루트 포스](study/Greedy_Brute) 🐣
  <p align="left">
 <img src=https://img.shields.io/static/v1?label=&message=Greedy&color=green&style=flat height=28px>
  <img src=https://img.shields.io/static/v1?label=&message=Brute_Force&color=green&style=flat height=28px>
 </p>
 
-## [Stack and Queue](study/stack_queue) 🐣
+## [스택과 큐](study/stack_queue) 🐣
  <p align="left">
 <img src=https://img.shields.io/static/v1?label=&message=Stack&color=green&style=flat height=28px>
 <img src=https://img.shields.io/static/v1?label=&message=Queue&color=green&style=flat height=28px>
@@ -40,13 +40,13 @@
   
 </p>
 
-## [Dynamic Programming](study/dynamic_programming) 🐣
+## [디피(동적계획법)](study/dynamic_programming) 🐣
  <p align="left">
 <img src=https://img.shields.io/static/v1?label=&message=Dynamic&color=green&style=flat height=28px>
  <img src=https://img.shields.io/static/v1?label=&message=Subproblems&color=green&style=flat height=28px>
 </p>
 
-## [Graph](study/graph) 🐣
+## [그래프](study/graph) 🐣
  <p align="left">
 <img src=https://img.shields.io/static/v1?label=&message=BFS&color=green&style=flat height=28px>
 <img src=https://img.shields.io/static/v1?label=&message=DFS&color=green&style=flat height=28px>
