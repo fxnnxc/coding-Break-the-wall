@@ -1,15 +1,29 @@
 # Coding 💎
 
- <p align="center">
+ <p align="left">
 <img src=https://img.shields.io/static/v1?label=&message=Bumjin&color=blue&style=flat height=28px>
 <img src=https://img.shields.io/static/v1?label=&message=Minjoon&color=blue&style=flat height=28px>
 <img src=https://img.shields.io/static/v1?label=&message=JungIn&color=blue&style=flat height=28px>
 <img src=https://img.shields.io/static/v1?label=&message=Yujin&color=blue&style=flat height=28px>
 
 </p>
-<p align="center">
-<img src="docs/img1.png" width=280px>
+<p align="left">
+<img src="docs/img1.png" width=380px>
 </p>
+
+##  Schedules 🎅
+
+* Week 1 : [한국정보올림피아드](competition/한국정보올림피아드)
+* Week 2 : [Dynamic Programming](study/dynamic_programming)
+* Week 3 : [Graph](study/graph)
+* Week 4 : [Stack, Queue and Deque](study/stack_queue)
+* Week 5 : [Greedy and Brute Force](study/Greedy_Brute)
+
+
+* week ~ : [Binary Search & Sorting](#)
+* Week ~ : [Shortest Path and Minimal Spanning Tree](#)
+
+
 
 # Subjects 🗃️
 ## [탐욕과 브루트 포스](study/Greedy_Brute) 🐣
@@ -43,18 +57,6 @@
 </p>
 
 
-
-##  Schedules 🎅
-
-* Week 1 : [한국정보올림피아드](competition/한국정보올림피아드)
-* Week 2 : [Dynamic Programming](study/dynamic_programming)
-* Week 3 : [Graph](study/graph)
-* Week 4 : [Stack, Queue and Deque](study/stack_queue)
-* Week 5 : [Greedy and Brute Force](study/Greedy_Brute)
-
-
-* week ~ : [Binary Search & Sorting](#)
-* Week ~ : [Shortest Path and Minimal Spanning Tree](#)
 
 
 # Competitions 🏆
