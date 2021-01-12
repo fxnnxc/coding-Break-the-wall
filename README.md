@@ -1,14 +1,15 @@
 # Coding 💎
 
- <p>
+ <p align="center">
 <img src=https://img.shields.io/static/v1?label=&message=Bumjin&color=blue&style=flat height=28px>
 <img src=https://img.shields.io/static/v1?label=&message=Minjoon&color=blue&style=flat height=28px>
 <img src=https://img.shields.io/static/v1?label=&message=JungIn&color=blue&style=flat height=28px>
 <img src=https://img.shields.io/static/v1?label=&message=Yujin&color=blue&style=flat height=28px>
- </p>
 
+</p>
+<p align="center">
 <img src="docs/img1.png" width=280px>
-
+</p>
 ---
 
 ##  New 🎅
