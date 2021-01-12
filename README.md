@@ -24,27 +24,35 @@
 * Week ~ : [Shortest Path and Minimal Spanning Tree](#)
 
 # Subjects 🗃️
+## [Greedy and Brute Force](study/Greedy_Brute) 🐣
+ <p align="left">
+<img src=https://img.shields.io/static/v1?label=&message=Greedy&color=green&style=flat height=28px>
+ <img src=https://img.shields.io/static/v1?label=&message=Brute_Force&color=green&style=flat height=28px>
+</p>
+
 ## [Stack and Queue](study/stack_queue) 🐣
-* stack/queue
-* stack: first in last out/ queue: first in first out
+ <p align="left">
+<img src=https://img.shields.io/static/v1?label=&message=Stack&color=green&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=Queue&color=green&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=Circular_Queue&color=green&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=MinHeap&color=green&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=MaxHeap&color=green&style=flat height=28px>
+  
+</p>
 
 ## [Dynamic Programming](study/dynamic_programming) 🐣
-* DP(동적 프로그래밍)
-* 문제를 Sub Problem으로 나누고 메모리를 사용해서 최단 시간의 방법으로 문제 해결
+ <p align="left">
+<img src=https://img.shields.io/static/v1?label=&message=Dynamic&color=green&style=flat height=28px>
+ <img src=https://img.shields.io/static/v1?label=&message=Subproblems&color=green&style=flat height=28px>
+</p>
 
 ## [Graph](study/graph) 🐣
-* Depth First Search
-* BFS
-* Shortest Path
-* Minimal Spanning Tree
-
-## [Binary Search](#) 🐣
-* Binary Search
-
-## [Sorting](#) 🐣
-* Quick Sort 
-* Insertion Sort
-
+ <p align="left">
+<img src=https://img.shields.io/static/v1?label=&message=BFS&color=green&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=DFS&color=green&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=Cycle_detection&color=green&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=Tree_Traversal&color=green&style=flat height=28px>
+</p>
 
 # Competitions 🏆
 
