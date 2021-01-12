@@ -1,0 +1,4 @@
+for file in examples/* ;
+	do python3 solution1.py < ${file};
+done;
+

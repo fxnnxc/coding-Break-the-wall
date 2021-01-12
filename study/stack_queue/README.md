@@ -14,7 +14,12 @@
 ### [ACMIC homework Link 👨‍💻](https://www.acmicpc.net/group/practice/9719/3)
 |name|solution|key words|
 |:-:|:-:|:-:|
-
+|최소 회의실 개수|[Unsolved](problems/최소회의실개수)||
+|압축|[Unsolved](priblems/압축)|
+|프린터 큐|[Unsolved](priblems/프린터큐)|
+|후위 표기식2|[Unsolved](priblems/후위표기식2)|
+|요세푸스 문제 0|[Unsolved](priblems/요세푸스문제0)|
+|탑|[Unsolved](priblems/탑)|
 
 ## 3. Free 🤗
 [Stack Problems 👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=71)[Queue Problems👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=72)
