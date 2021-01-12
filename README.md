@@ -10,9 +10,8 @@
 <p align="center">
 <img src="docs/img1.png" width=280px>
 </p>
----
 
-##  New 🎅
+##  Schedules 🎅
 
 * Week 1 : [한국정보올림피아드](competition/한국정보올림피아드)
 * Week 2 : [Dynamic Programming](study/dynamic_programming)
@@ -22,7 +21,7 @@
 
 
 * week ~ : [Binary Search & Sorting](#)
-* Week ~ : [Shortest Path and Minimal Spanning Tree](study/graph)
+* Week ~ : [Shortest Path and Minimal Spanning Tree](#)
 
 # Subjects 🗃️
 ## [Stack and Queue](study/stack_queue) 🐣
@@ -39,14 +38,12 @@
 * Shortest Path
 * Minimal Spanning Tree
 
-## [Binary Search](study/binary_search) 🐣
+## [Binary Search](#) 🐣
 * Binary Search
 
-
-## [Sorting](study/sorting) 🐣
+## [Sorting](#) 🐣
 * Quick Sort 
 * Insertion Sort
-
 
 
 # Competitions 🏆
