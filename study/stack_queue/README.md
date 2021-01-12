@@ -14,23 +14,13 @@
 ### [ACMIC homework Link 👨‍💻](https://www.acmicpc.net/group/practice/9719/3)
 |name|solution|key words|
 |:-:|:-:|:-:|
-<<<<<<< HEAD
 |최소 회의실 개수|[Unsolved](problems/최소회의실개수)||
 |압축|[Unsolved](priblems/압축)|
 |프린터 큐|[Unsolved](priblems/프린터큐)|
-|후위 표기식2|[Unsolved](priblems/후위표기식2)|
+|[후위 표기식2](https://www.acmicpc.net/problem/1935)|[Solved by Jungin](problems/후위표기식2)||
 |요세푸스 문제 0|[Unsolved](priblems/요세푸스문제0)|
 |탑|[Unsolved](priblems/탑)|
-=======
-|[최소 회의실 개수](https://www.acmicpc.net/problem/19598)|||
-|[압축](https://www.acmicpc.net/problem/1662)|||
-|[프린터 큐](https://www.acmicpc.net/problem/1966)|||
-|[후위 표기식2](https://www.acmicpc.net/problem/1935)|[Solved by Jungin](problems/후위표기식2)||
-|[요세푸스 문제0](https://www.acmicpc.net/problem/11866)|||
-|[탑](https://www.acmicpc.net/problem/2493)|||
 
-
->>>>>>> 47a1fb1994c506d2bac3090c029b0a052978cddf
 
 ## 3. Free 🤗
 [Stack Problems 👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=71)[Queue Problems👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=72)
