@@ -18,7 +18,7 @@
 |압축|[Unsolved](problems/압축)|
 |프린터 큐|[Solved by Bumjin](problems/프린터큐)|
 |[후위 표기식2](https://www.acmicpc.net/problem/1935)|[Solved by Jungin](problems/후위표기식2)||
-|요세푸스 문제 0|[Unsolved](problems/요세푸스문제0)|
+|[요세푸스 문제 0](https://www.acmicpc.net/problem/11866)|[Solved by Yujin](problems/요세푸스문제0)|
 |탑|[Unsolved](problems/탑)|
 
 
