@@ -16,7 +16,11 @@
 * Week 2 : [Dynamic Programming](study/dynamic_programming)
 * Week 3 : [Graph](study/graph)
 * Week 4 : [Stack, Queue and Deque](study/stack_queue)
-* Week 5 : [Shortest Path and Minimal Spanning Tree](study/graph)
+* Week 5 : [Greedy and Brute Force](study/Greedy_Brute)
+
+
+* week ~ : [Binary Search & Sorting](#)
+* Week ~ : [Shortest Path and Minimal Spanning Tree](study/graph)
 
 ## Subjects 🗃️
 ### [study/queue](study/dynamic_programming)
