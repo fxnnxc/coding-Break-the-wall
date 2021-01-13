@@ -2,9 +2,9 @@
 
  <p align="left">
 <img src=https://img.shields.io/static/v1?label=&message=Bumjin&color=blue&style=flat height=28px>
-<img src=https://img.shields.io/static/v1?label=&message=Minjoon&color=blue&style=flat height=28px>
-<img src=https://img.shields.io/static/v1?label=&message=JungIn&color=blue&style=flat height=28px>
-<img src=https://img.shields.io/static/v1?label=&message=Yujin&color=blue&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=Minjoon&color=green&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=JungIn&color=orange&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=Yujin&color=yellow&style=flat height=28px>
 
 </p>
 <p align="left">
