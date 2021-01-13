@@ -8,6 +8,10 @@
 1 2 3 4
 6 0
 1 1 9 1 1 1
+
+1
+2
+5
 ```
 
 ## [문제](https://www.acmicpc.net/problem/1966)
