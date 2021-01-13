@@ -4,10 +4,10 @@
 ### [ACMIC homework Link 👨‍💻](https://www.acmicpc.net/group/practice/9719/4)
 |name|solution|key words|
 |:-:|:-:|:-:|
-|퇴사|[Unsolved](problems/)||
-|A->B|[Unsolved](problems/)||
-|숫자야구|[Unsolved](problems/)||
-|단어 수학|[Unsolved](problems/)||
+|퇴사|[Unsolved](problems/)|Brute Force|
+|A->B|[Unsolved](problems/)|Greedy|
+|숫자야구|[Unsolved](problems/)|Brute Force|
+|단어 수학|[Unsolved](problems/)|Greedy|
 
 
 ## 2. Free 🤗
