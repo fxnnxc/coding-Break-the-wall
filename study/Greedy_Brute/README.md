@@ -4,11 +4,10 @@
 ### [ACMIC homework Link 👨‍💻](https://www.acmicpc.net/group/practice/9719/4)
 |name|solution|key words|
 |:-:|:-:|:-:|
-|-|[Unsolved](problems/)||
-|-|[Unsolved](problems/)||
-|-|[Unsolved](problems/)||
-|-|[Unsolved](problems/)||
-|-|[Unsolved](problems/)||
+|퇴사|[Unsolved](problems/)||
+|A->B|[Unsolved](problems/)||
+|숫자야구|[Unsolved](problems/)||
+|단어 수학|[Unsolved](problems/)||
 
 
 ## 2. Free 🤗
