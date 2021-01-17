@@ -18,7 +18,8 @@
 
 |name|solution|key words|info|
 |:-:|:-:|:-:|:--|
-
+|거스름돈|[Solved by Bumjin](problems/거스름돈)|잔돈 계산하기 | 쉬움
+|카드정렬하기|[Solved by Bumjin](problems/카드정렬하기)|Greedy 알고리즘으로 카드 정렬 순서를 최소화 시키는 문제| Heap을 사용하면 쉽게 풀 수 있음. |
 
 ## Greedy Alogirhtm 🦄
 
