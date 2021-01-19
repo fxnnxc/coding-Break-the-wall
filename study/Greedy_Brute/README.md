@@ -20,6 +20,8 @@
 |:-:|:-:|:-:|:--|
 |거스름돈|[Solved by Bumjin](problems/거스름돈)|잔돈 계산하기 | 쉬움
 |카드정렬하기|[Solved by Bumjin](problems/카드정렬하기)|Greedy 알고리즘으로 카드 정렬 순서를 최소화 시키는 문제| Heap을 사용하면 쉽게 풀 수 있음. |
+|덩치|[Solved by Bumjin](problems/덩치)|List 원소를 비교해서 순위를 정하는 문제, Brute Force|
+
 
 ## Greedy Alogirhtm 🦄
 
