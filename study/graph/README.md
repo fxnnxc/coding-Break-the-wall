@@ -19,6 +19,9 @@
 |[Count Circle Groups](https://www.acmicpc.net/problem/10216)||Connected Components|
 |[부등호](https://www.acmicpc.net/problem/2529)|[Solved by Jungin](problems/부등호)|permutation|
 |[트리의 부모찾기](https://www.acmicpc.net/problem/11725)|[Solved by Bumjin](problems/트리의부모찾기)|bfs, dfs, graph 순회, 순회하면서 그래프 변경|
+|[최소 스패닝 트리]()|[Solved by ]| 최소 신장 트리를 구하는 기본 문제|
+|[최단거리 -Dijkstra]()[Solved by ]| 최단거리를 구하는 기본 문제 |
+
 
 ## 2. Free 🤗
 ### [All of Graph Problems 👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=7)
