@@ -6,7 +6,7 @@
 <img src=https://img.shields.io/static/v1?label=&message=JungIn&color=pink&style=flat height=28px>
 <img src=https://img.shields.io/static/v1?label=&message=Yujin&color=orange&style=flat height=28px>
 
-afd
+
 </p>
 <p align="left">
 <img src="docs/img1.png" width=380px>
