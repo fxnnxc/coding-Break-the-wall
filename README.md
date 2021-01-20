@@ -18,7 +18,8 @@
 * Week 3 : [Graph](study/graph)
 * Week 4 : [Stack, Queue and Deque](study/stack_queue)
 * Week 5 : [Greedy and Brute Force](study/Greedy_Brute)
-* week 6 : [ Sorting](#)
+* week 6 : [Sorting](#)
+* Week ~ : [Shortest Path and Minimal Spanning Tree](#)
 * Week ~ : [Shortest Path and Minimal Spanning Tree](#)
 
 
