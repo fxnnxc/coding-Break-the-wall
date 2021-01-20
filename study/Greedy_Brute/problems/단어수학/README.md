@@ -15,7 +15,7 @@ value가 큰 값으로 sort해서 차례대로 9,8,7...1을 라벨링한다.
 
 ## 코드
 
-```
+```python 
 N = int(input())
 lst = []
 answer=[]

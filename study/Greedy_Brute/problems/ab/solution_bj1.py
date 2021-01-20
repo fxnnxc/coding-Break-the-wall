@@ -8,8 +8,6 @@ def solution(a,b,count):
         if solution(a*2,b, count+1):
             return True 
 
-
-
 a, b = map(int, input().strip().split())
 lst=[b]
 solution(a,b,0)
