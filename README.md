@@ -26,6 +26,13 @@
 
 
 # Subjects 🗃️
+
+## [정렬을 활용한 문제](study/sort) 🐣
+ <p align="left">
+<img src=https://img.shields.io/static/v1?label=&message=Sort&color=green&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=Quick&color=green&style=flat height=28px>
+</p>
+
 ## [탐욕과 브루트 포스](study/Greedy_Brute) 🐣
  <p align="left">
 <img src=https://img.shields.io/static/v1?label=&message=Greedy&color=green&style=flat height=28px>
