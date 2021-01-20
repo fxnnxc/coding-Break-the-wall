@@ -1,9 +1,21 @@
-# 단어 수학
+# 단어수학
 
-## 문제
-* [link](https://www.acmicpc.net/problem/1339)
+## \[문제\] https://www.acmicpc.net/problem/1339
 
-## 풀이
+![image](https://user-images.githubusercontent.com/52944973/105123102-d671ed80-5b1a-11eb-9285-ebd770bd16cd.png)
+
+## 예제
+
+![image](https://user-images.githubusercontent.com/52944973/105123123-e2f64600-5b1a-11eb-8712-03b21ef5a2d5.png)
+
+## 문제 풀이 전략
+알파벳에 대해서 dic 을 만들어주고 자리수 x 10 더해주면서 업데이트 해준다.
+
+value가 큰 값으로 sort해서 차례대로 9,8,7...1을 라벨링한다.
+
+## 코드
+
+```
 N = int(input())
 lst = []
 answer=[]
@@ -49,3 +61,6 @@ for i in lst:
     ans = ans + int(i)
 
 print(ans)
+
+
+```
