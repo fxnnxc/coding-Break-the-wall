@@ -1,11 +1,15 @@
+# 80 50 50 70
+# Limit 100 
+# 80 / 70 / 50 50
+# 50 50 70 80 
+
 def solution(people, limit):
     people.sort()
     lifeboats = 0
     left, right= 0, len(people)-1
-    answer = 0
     while left<=right:
         cumm = 0
-        while True:
+        while True and left<=right :
             cumm+=people[right]
             if cumm>limit:
                 break
@@ -14,6 +18,6 @@ def solution(people, limit):
             if cumm>limit:
                 break
             left +=1
-        answer +=1
-        
-    return answer
+        lifeboats +=1
+
+    return lifeboats

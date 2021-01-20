@@ -4,7 +4,6 @@ def out(time, words):
         return True
     if time>0 and words[time-1][-1] != words[time][0]:
         return True
-
     dict[words[time]] = 0 
     return False
 

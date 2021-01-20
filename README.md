@@ -22,8 +22,6 @@
 * Week ~ : [Shortest Path and Minimal Spanning Tree](#)
 * Week ~ : [Shortest Path and Minimal Spanning Tree](#)
 
-
-
 # Subjects 🗃️
 
 ## [정렬을 활용한 문제](study/sort) 🐣
