@@ -53,6 +53,7 @@ dp[day]에는 두 가지 중에서 **최댓값**을 저장
 
 dp[day] = max(dp[day+1],dp[day+T[day]]+P[day])
 
+```
 solve(0) = max(solve(1),solve(3)+10) = 45
 solve(1) = max(solve(2),solve(6)+20) = 45
 solve(2) = max(solve(3),solve(3)+10) = 45
@@ -63,6 +64,7 @@ solve(6) = max(solve(7),solve(8)+200) = 0
 solve(7) = 0
 solve(8) = -무한대
 solve(8)부터는 9일에 퇴사하는게 되어버림
+```
 
 ## Results
 
