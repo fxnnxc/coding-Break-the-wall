@@ -4,7 +4,9 @@
 ### [ACMIC homework Link 👨‍💻](https://www.acmicpc.net/group/practice/9719/5)
 |name|solution|key words|
 |:-:|:-:|:-:|
-
+전화번호 목록|[Unsolved](problems/전화번호-목록)|
+센서|[Unsolved](problems/센서)|
+아우으 우아으이야!!|[Unsolved](problems/아우으-우아으이야)|
 
 ## 2. Free 🤗
 [Sorting👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=97)
