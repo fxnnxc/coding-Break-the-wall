@@ -10,6 +10,13 @@
 도서관| [Unsolved](problems/도서관)|
 통나무건너뛰기|[Unsolved](problems/통나무건너뛰기)|
 
+```python
+lst = [1,2,3,4,5]
+lst.sort(key=lambda x:x[0])
+new_lst = sorted(lst, key=lambda x:x[0])
+```
+
+
 ## 2. Free 🤗
 [Sorting👩‍💻](https://www.acmicpc.net/problemset?sort=ac_desc&algo=97)
 
@@ -17,9 +24,9 @@
 
 |name|solution|key words|info|
 |:-:|:-:|:-:|:--|
+수 묶기|[Solved by Bumjin](problems/수묶기)|양수, 음수 나눠서 정렬| 0을 잘 처리해야 모든 테스트를 통과 가능
 
 ## Algorithms
-
 
 
 * 비교 정렬
