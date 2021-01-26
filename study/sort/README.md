@@ -5,7 +5,7 @@
 |name|solution|key words|
 |:-:|:-:|:-:|
 전화번호 목록|[Solved by Bumjin](problems/전화번호목록)|스트링의 크기비교를 통해서 정렬하는 문제. </br> 파이썬으로는 쉽게 풀린다. 
-센서|[Unsolved](problems/센서)|
+센서|[Solved by Ujin](problems/센서)|
 아우으 우아으이야!!|[Unsolved](problems/아우으우아으이야)|
 도서관| [Unsolved](problems/도서관)|
 통나무건너뛰기|[Unsolved](problems/통나무건너뛰기)|
