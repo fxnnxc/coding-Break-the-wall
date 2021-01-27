@@ -34,7 +34,6 @@ new_lst = sorted(lst, key=lambda x:x[0])
 * 온라인 정렬
 
 
-
 <img src="docs/sort1.png">
 
 
