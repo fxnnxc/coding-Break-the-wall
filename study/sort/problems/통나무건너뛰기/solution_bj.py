@@ -14,7 +14,6 @@ def solution(lst):
     MAX = abs(temp[0]-temp[-1])
     for i in range(len(temp)-1):
         MAX = max(MAX, abs(temp[i+1]- temp[i]))
-
     print(MAX)
 
 T = int(input())

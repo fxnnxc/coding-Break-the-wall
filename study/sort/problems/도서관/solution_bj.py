@@ -11,10 +11,10 @@ step = 0
 plus_lst = [i for i in lst if i>0]+[0]
 minus_lst = [-i for i in lst if i<0]+[0]
 
-plus_lst.sort(reverse=False)   # 9 8 7 6 
-minus_lst.sort(reverse=False)  
+plus_lst.sort(reverse=False)   # 0 1 2 3 4 5 6  
+minus_lst.sort(reverse=False)  # 0 2 4 5      6 7 8 
 
-if plus_lst[-1]>=minus_lst[-1]:
+if plus_lst[-1] >= minus_lst[-1]:
     step += plus_lst[-1]
     for i in range(M):
         if plus_lst:

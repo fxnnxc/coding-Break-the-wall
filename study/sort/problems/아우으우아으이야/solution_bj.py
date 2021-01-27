@@ -22,3 +22,4 @@ for i in range(1, len(lst)):
 
 length += last - start 
 print(length)
+
