@@ -1,25 +1,3 @@
-
-- [사냥꾼](#사냥꾼)
-  - [문제 설명](#문제-설명)
-    - [링크](#링크)
-  - [소스코드](#소스코드)
-
-
-# 사냥꾼
-
-
-## 문제 설명
-<img src="https://www.acmicpc.net/upload/images/hunter.png">
-총쏘는 위치(네모)에서 사냥 가능한 동물의 수를 세는 문제이다. 
-
-
-### 링크
-https://www.acmicpc.net/problem/8983
-
-
-
-## 소스코드
-```python
 import sys 
 
 def isCatchable(x,y,px, L):
@@ -50,4 +28,3 @@ pos = list(map(int, input().split()))
 animals = [list(map(int, sys.stdin.readline().split())) for i in range(N)]
 pos.sort()  # Binary Search를 위한 정렬
 print(solution(pos, animals, L))
-```
