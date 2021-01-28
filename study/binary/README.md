@@ -1,3 +1,10 @@
+- [Sorting](#sorting)
+  - [1. Assigned 📌](#1-assigned-)
+    - [ACMIC homework Link 👨‍💻](#acmic-homework-link-)
+  - [2. Free 🤗](#2-free-)
+  - [방법](#방법)
+
+
 # Sorting
 
 ## 1. Assigned 📌
