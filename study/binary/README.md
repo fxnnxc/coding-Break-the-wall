@@ -1,10 +1,10 @@
-- [Sorting](#sorting)
+- [Binary Search](#binary-search)
   - [Assigned 📌](#assigned-)
   - [Free 🤗](#free-)
   - [방법](#방법)
 
 
-# Sorting
+# Binary Search
 
 ## Assigned 📌
 [ACMIC homework Link 👨‍💻](https://www.acmicpc.net/group/practice/9719/6)
