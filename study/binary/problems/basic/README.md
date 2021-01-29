@@ -8,7 +8,8 @@
  
 # Binary Search Method and TestCase 🦄
 
-* Writen by Bumjin
+* Written by Bumjin
+* Check the ```basic.ipynb``` file to run TestCases
 
 ## Binary Search Method 
 ```python
