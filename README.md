@@ -25,6 +25,12 @@
 
 # Subjects 🗃️
 
+## [이분탐색 문제](study/binary) 🐣
+ <p align="left">
+<img src=https://img.shields.io/static/v1?label=&message=Binary_Exist&color=green&style=flat height=28px>
+<img src=https://img.shields.io/static/v1?label=&message=Binary_Closest&color=green&style=flat height=28px>
+</p>
+
 ## [정렬을 활용한 문제](study/sort) 🐣
  <p align="left">
 <img src=https://img.shields.io/static/v1?label=&message=Sort&color=green&style=flat height=28px>

@@ -1,7 +1,7 @@
 - [Binary Search](#binary-search)
   - [Assigned 📌](#assigned-)
   - [Free 🤗](#free-)
-  - [방법](#방법)
+  - [방법 🦄](#방법-)
 
 
 # Binary Search
@@ -24,9 +24,9 @@
 |:-:|:-:|:-:|:--|
 
 
-## 방법 
+## 방법 🦄
 
-Binary Search에 대한 기본 지식입니다. 🦄
+Binary Search에 대한 기본 지식입니다. 
 
 자세한 내용은 [Basic READMD](problems/basic)를 참고하세요 
 

@@ -1,14 +1,16 @@
-- [Binary Search Method and TestCase](#binary-search-method-and-testcase)
+- [Binary Search Method and TestCase 🦄](#binary-search-method-and-testcase-)
   - [Binary Search Method](#binary-search-method)
   - [Test 1 : Find values which exit in the given list](#test-1--find-values-which-exit-in-the-given-list)
   - [Test 2 : Find Random Numbers](#test-2--find-random-numbers)
   - [Test 3 : TestCase using unittest](#test-3--testcase-using-unittest)
   - [Appendix](#appendix)
 
+ 
+# Binary Search Method and TestCase 🦄
 
-# Binary Search Method and TestCase
+* Writen by Bumjin
 
-## Binary Search Method
+## Binary Search Method 
 ```python
 def find(v, lst):
     if len(lst)==1:
@@ -82,3 +84,4 @@ def find(v, lst):
     values.sort(key=lambda x:x[0])
     return values[0][1]+left
 ```
+
