@@ -55,11 +55,8 @@ def find(v, lst):
 
 
 ## Appendix
-
-
 * Pseudo Code
 ```python
-# Sudo Code
 def find(v, lst):
     """
     lst에서 이분탐색으로 v의 위치를 찾아서 반환합니다. 
@@ -83,5 +80,6 @@ def find(v, lst):
     values =[(abs(t-v), i) for i, t in enumerate(values)]
     values.sort(key=lambda x:x[0])
     return values[0][1]+left
+
 ```
 
