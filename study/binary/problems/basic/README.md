@@ -1,6 +1,6 @@
 - [Binary Search Method and TestCase 🦄](#binary-search-method-and-testcase-)
   - [Binary Search Method](#binary-search-method)
-  - [Test 1 : Find values which exit in the given list](#test-1--find-values-which-exit-in-the-given-list)
+  - [Test 1 : Find values which exist in the given list](#test-1--find-values-which-exist-in-the-given-list)
   - [Test 2 : Find Random Numbers](#test-2--find-random-numbers)
   - [Test 3 : TestCase using unittest](#test-3--testcase-using-unittest)
   - [Appendix](#appendix)
@@ -40,7 +40,7 @@ def find(v, lst):
     return values[0][1]+left
 ```
 
-## Test 1 : Find values which exit in the given list
+## Test 1 : Find values which exist in the given list
 
 ## Test 2 : Find Random Numbers
 * If there is a given number in the list, find it
