@@ -9,7 +9,7 @@
   - [🐣 그래프](#-그래프)
 - [🏆 Competitions 🏆](#-competitions-)
 
-# 💎 Coding 
+# 💎 Coding - 
 
  <p align="left">
 <img src=https://img.shields.io/static/v1?label=&message=Bumjin&color=blue&style=flat height=28px>
