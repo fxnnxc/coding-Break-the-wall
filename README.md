@@ -1,15 +1,15 @@
-- [Coding 💎](#coding-)
+- [💎 Coding](#-coding)
   - [Schedules](#schedules)
-- [Subjects 🗃️](#subjects-️)
+- [🗃️ Subjects](#️-subjects)
   - [🐣 이분탐색 문제](#-이분탐색-문제)
   - [🐣 정렬을 활용한 문제](#-정렬을-활용한-문제)
   - [🐣 탐욕과 브루트 포스](#-탐욕과-브루트-포스)
   - [🐣 스택과 큐](#-스택과-큐)
   - [🐣 DP(동적계획법)](#-dp동적계획법)
   - [🐣 그래프](#-그래프)
-- [Competitions 🏆](#competitions-)
+- [🏆 Competitions 🏆](#-competitions-)
 
-# Coding 💎
+# 💎 Coding 
 
  <p align="left">
 <img src=https://img.shields.io/static/v1?label=&message=Bumjin&color=blue&style=flat height=28px>
@@ -34,7 +34,7 @@
 * Week 7 : [Binary Search](study/binary)
 * Week 8 : [Shortest Path and Minimal Spanning Tree](study/graph)
 
-# Subjects 🗃️
+# 🗃️ Subjects 
 
 ## [🐣 이분탐색 문제](study/binary) 
 정렬된 리스트에서 요구하는 값을 최대한 빠르게 찾으며, 만일 값이 존재하지 않는다면 가장 가까운 값을 찾아야 합니다. 
@@ -64,7 +64,7 @@ Heap을 On-line상태에서 값을 다루는 데 유용하게 쓰입니다.
 가장 복잡하면서도 다양한 하위 카테고리가 존재하는 그래프 입니다. Graph Searching부터 시작해서, Circle Detection, Minimal spanning Tree까지 다양한 문제가 있습니다. 
 
 
-# Competitions 🏆
+# 🏆 Competitions 🏆
 * [프로그래머스](competition/프로그래머스)
 * [2021카카오신입공채 코딩테스트 1차](competition/2021카카오신입공채1차온라인)
 
